@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Andrew Xu</string>
+    <string-array name="toDoList">
+        <item>fb</item>
+        <item>gm</item>
+        <item>ya</item>
+        <item>no</item>
+        <item>ww</item>
+    </string-array>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
